@@ -1,4 +1,4 @@
-# **Is a Cereal Healthy?** 
+# **Is a Cereal, Healthy?** 
 ### A hierarchical clustering adventure
 
 ## WHAT MAKES A CEREAL HEALTHY? 
